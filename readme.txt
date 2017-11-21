@@ -5,3 +5,5 @@ Git tracks change of files.
 Git origin.
 Creating a new branch is quick AND simple.
 --no-ff
+stash
+feature
